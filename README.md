@@ -13,8 +13,8 @@ Data cleaning is often the most time-consuming yet overlooked part of any data s
 This casebook is my attempt to treat data cleaning as a first-class skill — emphasizing depth, reasoning, and reproducibility.
 
 Whether you're just starting out or looking to sharpen your skills, this repo provides:
-- ✅ Modular, well-documented notebooks
-- ✅ Best practices using popular Python libraries
-- ✅ Real-world inspired scenarios
-- ✅ Reusable functions for cleaning tasks
+- Modular, well-documented notebooks
+- Best practices using popular Python libraries
+- Real-world inspired scenarios
+- Reusable functions for cleaning tasks
 
